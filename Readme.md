@@ -1,3 +1,3 @@
-# Titulo
-## subtitulo
+# Título
+## subtítulo
 - [ ] Creando Pull Request
