@@ -1,3 +1,6 @@
 # Título
 ## subtítulo
-- [ ] Creando Pull Request
+- [x] Creando Pull Request
+- [ ] CR
+- [ ] Approve
+- [ ] Message
