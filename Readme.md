@@ -4,4 +4,6 @@
 - [x] CR
 - [x] Approve
 - [x] Message
-- [ ] Trello Card
+- [x] Trello Card
+- [ ] RTR more 8 hours
+- [ ] RTR without approve
