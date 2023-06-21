@@ -1,6 +1,7 @@
 # Título
 ## subtítulo
 - [x] Creando Pull Request
-- [ ] CR
-- [ ] Approve
-- [ ] Message
+- [x] CR
+- [x] Approve
+- [x] Message
+- [ ] Trello Card
