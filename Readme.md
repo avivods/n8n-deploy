@@ -8,3 +8,4 @@
 - [x] Trello Card
 - [ ] RTR more 8 hours
 - [ ] RTR without approve?
+- [ ] check state
